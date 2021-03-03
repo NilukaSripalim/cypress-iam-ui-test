@@ -31,6 +31,6 @@
     "express-session": "^1.17.0",
     "passport": "^0.4.1",
     "passport-oauth2": "^1.5.0",
-    "pug": "^2.0.4"
+    "pug": "^3.0.1"
   }
 }
